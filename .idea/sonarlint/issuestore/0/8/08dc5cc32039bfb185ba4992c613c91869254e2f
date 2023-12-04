@@ -1,0 +1,7 @@
+
+xpython:S117"URename this local variable "cRat" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂóÄİıÿÿÿÿ8†¹³Ã1
+~python:S117"[Rename this local variable "commentRat" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÿÔüùÿÿÿÿ8‡¹³Ã1
+spython:S117"URename this local variable "pRat" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ñ‡ç8‡¹³Ã1
+vpython:S117"XRename this local variable "postRat" to match the regular expression ^[_a-z][a-z0-9_]*$.(´¡üÁ8‡¹³Ã1
+rpython:S4144."TUpdate this function so that its implementation is not identical to like on line 43.(¶ËR8‡¹³Ã1
+rpython:S4144I"TUpdate this function so that its implementation is not identical to like on line 70.(¶ËR8‡¹³Ã1
